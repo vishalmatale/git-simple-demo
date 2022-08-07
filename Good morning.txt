@@ -1,0 +1,8 @@
+public class {
+
+public static void main method(){
+
+System.out.pritln("Hellow Good morning all of you")
+}
+
+}

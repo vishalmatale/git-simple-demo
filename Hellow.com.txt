@@ -1,0 +1,8 @@
+public class{
+
+public static void main method(String{}){
+
+System.out.println("Hellow i am vishal matale ")
+}
+
+}
